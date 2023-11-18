@@ -1,0 +1,8 @@
+C:\Users\Ilnaz.Farhullin\Desktop\file\file\bin\Debug\file.exe.config
+C:\Users\Ilnaz.Farhullin\Desktop\file\file\bin\Debug\file.exe
+C:\Users\Ilnaz.Farhullin\Desktop\file\file\bin\Debug\file.pdb
+C:\Users\Ilnaz.Farhullin\Desktop\file\file\obj\Debug\file.csproj.AssemblyReference.cache
+C:\Users\Ilnaz.Farhullin\Desktop\file\file\obj\Debug\file.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilnaz.Farhullin\Desktop\file\file\obj\Debug\file.csproj.CoreCompileInputs.cache
+C:\Users\Ilnaz.Farhullin\Desktop\file\file\obj\Debug\file.exe
+C:\Users\Ilnaz.Farhullin\Desktop\file\file\obj\Debug\file.pdb
